@@ -1,16 +1,34 @@
-# tarea5_181193
+# DMI_Tarea5_181193
 
-A new Flutter project.
+[![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
-## Getting Started
+<div align="center">
+  
+# Universidad Tecnológica de Xicotepec de Juárez
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Ingeniería en Desarrollo y Gestión de Software
+## Mariela González López
+## 10A
+## Aplicación Flutter con widgets Stateless
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+&nbsp;
+&nbsp;
+|  Características |  Información |
+| :------------: | :------------: |
+| **Nombre**  |  **Tarea 5.**  |
+| **Descripción**  | Se realizó la implementación de imagenes a una Aplicación Flutter con Widgets Stateful, <br> los cuales pueden mantener y cambiar su estado interno a lo largo del tiempo   |
+|  **Fecha de Carga** | 22/09/23  |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+<br>
+<br>
+<br>
+<br>
+
+[![Imagen1-2.jpg](https://i.postimg.cc/x1swjyVj/Imagen1-2.jpg)](https://postimg.cc/0zwWcSNh)
