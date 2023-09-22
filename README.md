@@ -10,7 +10,7 @@
 ## Ingeniería en Desarrollo y Gestión de Software
 ## Mariela González López
 ## 10A
-## Aplicación Flutter con widgets Stateless
+## Aplicación Flutter con widgets Stateful
 
 &nbsp;
 &nbsp;
